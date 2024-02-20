@@ -1,3 +1,7 @@
+This repository is deprecated from Feb 21, 2024. Splunk organization will no longer support this repository.
+
+A fork of this repository is available at https://github.com/streamnative/lightproto. Please reach out to the maintainers
+of this repo directly for any questions.
 
 
 ### Light Proto serialization
